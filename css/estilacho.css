@@ -1,0 +1,29 @@
+body{
+  background-color:  rgb(206, 222, 222);
+}
+
+.container-fluid {
+  position: relative;
+  width: 100%;
+}
+
+.row {
+  width: 100%;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(220, 206, 222);
+  color: white;
+  text-align: center;
+  margin-bottom:5px;
+}
+
+#bttn {
+  position: fixed;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
